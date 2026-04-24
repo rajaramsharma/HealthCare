@@ -309,6 +309,26 @@ For support, email support@tanzeera.com or open an issue on GitHub.
 - **Dark Mode**: Supported
 - **Type Safe**: 100% TypeScript
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](ss/home.png)
+
+### About Page
+![About Page](ss/about.png)
+
+### Services Page
+![Services Page](ss/services.png)
+
+### Doctors Page
+![Doctors Page](ss/doctors.png)
+
+### Book Appointment Page
+![Book Appointment Page](ss/bookappoitment.png)
+
+### Contact Page
+![Contact Page](ss/contact.png)
+
 ---
 
 **Made with ❤️ by Tanzeera Tech**
