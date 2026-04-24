@@ -40,8 +40,8 @@ A modern, responsive healthcare clinic management web application built with **N
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tanzeera-tech/clinic.git
-   cd clinic
+   git clone https://github.com/rajaramsharma/HealthCare.git
+   cd HealthCare
    ```
 
 2. **Install dependencies**
@@ -297,8 +297,8 @@ For support, email support@tanzeera.com or open an issue on GitHub.
 
 - [Live Demo](#) - Coming soon
 - [Documentation](#) - Coming soon
-- [Report Bug](https://github.com/tanzeera-tech/clinic/issues)
-- [Request Feature](https://github.com/tanzeera-tech/clinic/issues)
+- [Report Bug](https://github.com/rajaramsharma/HealthCare/issues)
+- [Request Feature](https://github.com/rajaramsharma/HealthCare/issues)
 
 ## 📊 Project Stats
 
