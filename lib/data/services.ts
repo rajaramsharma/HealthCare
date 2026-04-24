@@ -1,0 +1,60 @@
+import { Shield, Heart, Activity, Microscope, Ambulance, Stethoscope } from 'lucide-react'
+
+export const services = [
+  {
+    id: 'dental',
+    title: 'Dental',
+    description: 'Complete dental care and treatment',
+    icon: Shield,
+    image: '/images/dc.jpg',
+    link: '/services/dental',
+  },
+  {
+    id: 'lab',
+    title: 'Lab Services',
+    description: 'Comprehensive laboratory testing',
+    icon: Microscope,
+    image: '/images/lab.jpg',
+    link: '/services/lab',
+  },
+  {
+    id: 'cardiology',
+    title: 'Cardiology',
+    description: 'Heart specialist consultation',
+    icon: Heart,
+    image: '/images/c.jpg',
+    link: '/services/cardiology',
+  },
+  {
+    id: 'general',
+    title: 'General Checkup',
+    description: 'Routine health checkups',
+    icon: Activity,
+    image: '/images/gc.jpg',
+    link: '/services/general-checkup',
+  },
+  {
+    id: 'eye',
+    title: 'Eye Care',
+    description: 'Vision and eye health services',
+    icon: Microscope,
+    image: '/images/ec.jpg',
+    link: '/services/eye',
+  },
+  {
+    id: 'mental',
+    title: 'Mental Health',
+    description: 'Counseling and wellness',
+    icon: Stethoscope,
+    image: '/images/mh.jpg',
+    link: '/services/mental',
+  },
+  {
+    id: 'physical',
+    title: 'Physical Therapy',
+    description: 'Rehabilitation services',
+    icon: Ambulance,
+    image: '/images/pt.jpg',
+    link: '/services/physical',
+  },
+]
